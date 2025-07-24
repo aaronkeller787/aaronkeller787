@@ -19,6 +19,9 @@ Currently, I'm pivoting toward a more **database engineering and development**-f
 
 ## 📌 Featured Projects
 
+- 👾 [**Sci-Fi Books ETL Project**](https://github.com/aaronkeller787/sfBooks)
+  Automates the ETL process using a public dataset of Science Fiction books
+
 - 🔁 [**vCD Automation**](https://github.com/aaronkeller787/vCDAutomation)  
   Automates full VMware Cloud Director customer provisioning from Org setup to user creation.
 
